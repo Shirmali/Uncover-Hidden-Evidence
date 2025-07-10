@@ -150,6 +150,4 @@ This challenge was a great demonstration of:
 
 ### 🚀 Follow for more forensic write-ups!
 
-🔗 GitHub: \[your profile]
-📌 LinkedIn: \[your profile]
 🛡️ Cybersecurity | Digital Forensics | CTFs
